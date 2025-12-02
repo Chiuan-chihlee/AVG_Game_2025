@@ -44,9 +44,185 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E3B\u89D2"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - Prot.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u7B11"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - Prot-sm.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u89C0\u5BDF\u8005 (\u5C0F\u591C)"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - yei.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u54ED"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - yei-cry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u65C1\u767D/\u60C5\u5883"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u5B78\u751F\u6703\u6210\u54E1/\u773C\u93E1\u5973\u751F"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u6232\u5287\u793E\u9A0E\u58EB/\u9A0E\u58EB"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u7D19\u689D\u5167\u5BB9"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u65C1\u6C27/\u60C5\u5883"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u65B0\u89D2\u8272A/\u6703\u8A08"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u65B0\u89D2\u8272B/\u5C0E\u6F14"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71313534/Scenarios/71313534.xls:Character
     type: 1
-    textLength: 166
+    textLength: 319
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0e1fbe9d8b001c44d801eb69bc9e8e11, type: 3}
   - rows:
