@@ -48,7 +48,7 @@ MonoBehaviour:
       debugIndex: 1
       strings:
       - "\u4E3B\u89D2"
-      - 
+      - "\u4F60"
       - "\u4E00\u822C"
       - 
       - 
@@ -64,7 +64,7 @@ MonoBehaviour:
       debugIndex: 2
       strings:
       - 
-      - 
+      - "\u4F60"
       - "\u7B11"
       - 
       - 
@@ -79,14 +79,14 @@ MonoBehaviour:
     - rowIndex: 3
       debugIndex: 3
       strings:
+      - "\u65B0\u89D2\u8272C/\u89C0\u5BDF\u8005 (\u5C0F\u591C)"
       - "\u89C0\u5BDF\u8005 (\u5C0F\u591C)"
-      - 
       - "\u4E00\u822C"
       - 
       - 
       - 
       - 
-      - .35
+      - .5
       - 
       - yei.png
       isEmpty: 0
@@ -96,13 +96,13 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - 
-      - 
+      - "\u89C0\u5BDF\u8005 (\u5C0F\u591C)"
       - "\u54ED"
       - 
       - 
       - 
       - 
-      - .35
+      - .5
       - 
       - yei-cry.png
       isEmpty: 0
@@ -111,72 +111,72 @@ MonoBehaviour:
     - rowIndex: 5
       debugIndex: 5
       strings:
-      - "\u65C1\u767D/\u60C5\u5883"
-      - 
+      - "\u5B78\u751F\u6703\u6210\u54E1/\u773C\u93E1\u5973\u751F"
+      - "\u773C\u93E1\u5973\u751F"
       - "\u4E00\u822C"
       - 
       - 
       - 
       - 
+      - .5
       - 
-      - 
-      - .png
+      - a1.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 6
       debugIndex: 6
       strings:
-      - "\u5B78\u751F\u6703\u6210\u54E1/\u773C\u93E1\u5973\u751F"
-      - 
+      - "\u6232\u5287\u793E\u9A0E\u58EB/\u9A0E\u58EB"
+      - "\u9A0E\u58EB"
       - "\u4E00\u822C"
       - 
       - 
       - 
       - 
+      - .35
       - 
-      - 
-      - .png
+      - a2.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 7
       debugIndex: 7
       strings:
-      - "\u6232\u5287\u793E\u9A0E\u58EB/\u9A0E\u58EB"
-      - 
+      - "\u65B0\u89D2\u8272A/\u6703\u8A08"
+      - "\u6703\u8A08"
       - "\u4E00\u822C"
       - 
       - 
       - 
       - 
+      - .35
       - 
-      - 
-      - .png
+      - a3.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 8
       debugIndex: 8
       strings:
-      - "\u7D19\u689D\u5167\u5BB9"
-      - 
+      - "\u65B0\u89D2\u8272B/\u5C0E\u6F14"
+      - "\u5C0E\u6F14"
       - "\u4E00\u822C"
       - 
       - 
       - 
       - 
+      - .5
       - 
-      - 
-      - .png
+      - a4.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 9
       debugIndex: 9
       strings:
-      - "\u65C1\u6C27/\u60C5\u5883"
-      - 
+      - "\u65C1\u767D/\u60C5\u5883"
+      - "\u65C1\u767D"
       - "\u4E00\u822C"
       - 
       - 
@@ -184,45 +184,13 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .png
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 10
-      debugIndex: 10
-      strings:
-      - "\u65B0\u89D2\u8272A/\u6703\u8A08"
-      - 
-      - "\u4E00\u822C"
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - .png
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 11
-      debugIndex: 11
-      strings:
-      - "\u65B0\u89D2\u8272B/\u5C0E\u6F14"
-      - 
-      - "\u4E00\u822C"
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - .png
+      - Space.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/71313534/Scenarios/71313534.xls:Character
     type: 1
-    textLength: 319
+    textLength: 354
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0e1fbe9d8b001c44d801eb69bc9e8e11, type: 3}
   - rows:
@@ -248,9 +216,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - A1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71313534/Scenarios/71313534.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 122
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0e1fbe9d8b001c44d801eb69bc9e8e11, type: 3}
   - rows:
@@ -291,9 +274,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D\u9593"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6\u908A"
+      - Character
+      - -450
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3\u908A"
+      - Character
+      - 450
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71313534/Scenarios/71313534.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 162
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0e1fbe9d8b001c44d801eb69bc9e8e11, type: 3}
   - rows:
