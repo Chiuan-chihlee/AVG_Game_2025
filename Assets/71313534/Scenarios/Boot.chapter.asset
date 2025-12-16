@@ -476,9 +476,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - BGM
+      - 
+      - Bgm
+      - BGM.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71313534/Scenarios/71313534.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 50
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0e1fbe9d8b001c44d801eb69bc9e8e11, type: 3}
   - rows:
